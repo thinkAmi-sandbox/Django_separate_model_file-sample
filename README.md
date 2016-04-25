@@ -1,0 +1,1 @@
+# Django_separate_model_file-sample
